@@ -13,7 +13,7 @@ public class Ex_2 {
 
         System.out.println("Digite um número:");
         numero = scan.nextShort();
-        
+
         while(cont <= numero){
             if (numero == 0){
                 System.out.println("Numero invalido, tente novamente: ");
